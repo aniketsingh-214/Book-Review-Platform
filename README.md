@@ -113,12 +113,6 @@ The frontend app runs at: `http://localhost:5173` (or a different port if 5173 i
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Author
 
 Made with ❤️ by **Aniket Singh**
